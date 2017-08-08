@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap.push-menu",
+  "version": "1.0.0",
+  "description": "Enables push menu functionality with Bootstrap-compliant classes",
+  "main": "dist/js/push-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcavaliere/bootstrap.push-menu.git"
+  },
+  "author": "developerdizzle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcavaliere/bootstrap.push-menu/issues"
+  },
+  "homepage": "https://github.com/mcavaliere/bootstrap.push-menu#readme"
+}
